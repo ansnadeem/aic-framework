@@ -13,7 +13,7 @@ Furthermore, all the data that was collected has also been uploaded to public so
 
 Repositories fetched from github associated with [IEEE's top 50 programming languages](https://ieeexplore.ieee.org/document/91505500 can be found at [Kaggle - Repositories dataset](https://www.kaggle.com/ansnadeem/github-repositories-of-top-50-languages)
 
-The original issue dataset(s) can be found at [Kaggle - Issue Dataset](www.kaggle.com/ansnadeem/github-top-repository-issues)
+The original issue dataset(s) can be found at [Kaggle - Issue Dataset](https://kaggle.com/ansnadeem/github-top-repository-issues)
 The above kaggle link is associated with two datasets:-
 1. issues.csv - Raw issue data extracted from top 50 repositories
 1. labelled_issues_with_language.csv - Labelled data from the above dataset, also includes an identifier of the language that was used 
