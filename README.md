@@ -15,8 +15,8 @@ Repositories fetched from github associated with [IEEE's top 50 programming lang
 
 The original issue dataset(s) can be found at [Kaggle - Issue Dataset](www.kaggle.com/ansnadeem/github-top-repository-issues)
 The above kaggle link is associated with two datasets:-
-issues.csv - Raw issue data extracted from top 50 repositories
-labelled_issues_with_language.csv - Labelled data from the above dataset, also includes an identifier of the language that was used 
+1. issues.csv - Raw issue data extracted from top 50 repositories
+1. labelled_issues_with_language.csv - Labelled data from the above dataset, also includes an identifier of the language that was used 
 
 ## Pre-processing Data for Training
 [todo]
