@@ -11,7 +11,7 @@ For this purpose, we used nothing but github's own api. (Refer to Fetch Repos an
 
 Furthermore, all the data that was collected has also been uploaded to public sources to facilitate future research and projects.
 
-Repositories fetched from github associated with [IEEE's top 50 programming languages](https://ieeexplore.ieee.org/document/91505500 can be found at [Kaggle - Repositories dataset](https://www.kaggle.com/ansnadeem/github-repositories-of-top-50-languages)
+Repositories fetched from github associated with [The top programming languages](https://ieeexplore.ieee.org/document/91505500) can be found at [Kaggle - Repositories dataset](https://www.kaggle.com/ansnadeem/github-repositories-of-top-50-languages)
 
 The original issue dataset(s) can be found at [Kaggle - Issue Dataset](https://kaggle.com/ansnadeem/github-top-repository-issues)
 The above kaggle link is associated with two datasets:-
