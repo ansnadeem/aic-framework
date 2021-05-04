@@ -28,6 +28,9 @@ The above kaggle link is associated with two datasets:-
 
 ## Pre-processing Data for Training
 This part involves a number of steps. At first we observe that the dataset contains almost 48% labelled issues. Which means that 52% of the issues are not labelled, which is the problem that we intend to solve.
+
+<img src="https://github.com/ansnadeem/gh-issue-classification/raw/main/labelled_unlabelled_pi.png" width="300">
+
 Then out of the labelled data, we filter out results that are only in english language.
 Finally, we pre-process data and add appropriate columns and values to make it a multi-class problem. Moreover, we only classify for default github labels that correspond to maintainence activities such as feature, bug, and enhancement.
 
@@ -39,8 +42,9 @@ In the training phase we fit three models
 
 
 ## Evaluation
-We compare the acuracy of all the models and find that LinearSVC performs the bset.
+We compare the acuracy of all the models and find that LinearSVC performs the best.
 
+<img src="https://github.com/ansnadeem/gh-issue-classification/raw/main/bar_comparison.png" width="300">
 
 ## License
 [MIT License](https://github.com/ansnadeem/gh-issue-classification/LICENSE)
