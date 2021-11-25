@@ -11,7 +11,7 @@ Step 1 and 2 can be skipped by downloading the datasets from the [kaggle](https:
 3. Run the Cleaning and training notebook (To run this notebook faster, also download the labelled_issues_with_language.csv from below)
 
 
-## Fetching Data
+## Fetching Data.
 This focus of this work was more recent data, as opposed to old datasets that are already [available on Google's BigQuery](https://console.cloud.google.com/marketplace/details/github/github-repos?filter=solution-type:dataset), [Kaggle](https://www.kaggle.com/davidshinn/github-issues) and various other internet sources.
 
 Therefore, the first and foremost task was to systematically collect data from github.
